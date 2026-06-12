@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+    background: #f5f5f5;
+}
+
+.card {
+    width: 300px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 0;
+}
